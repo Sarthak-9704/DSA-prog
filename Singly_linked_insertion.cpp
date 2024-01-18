@@ -93,7 +93,3 @@ int main()
 	cout<<endl;
 	show_data(head);
 }
-
-
-
-
